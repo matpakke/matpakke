@@ -1,8 +1,8 @@
 <p align="center">
   <img width="100%" height="300" src="image/hacker-python.gif">
-  <img width="85" height="85" src="image/Cat-code.gif">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=0F9E19&background=000000&multiline=true&width=450&height=85&lines=%3E+Hacker+is+here.+Where+are+you%3F;%3E+Hi%2C+I'm+T%C3%86!+I+finally+found+you.;%3E+Watch+out%2C+I'm+watching+you!" alt="Typing SVG" /></a>
-  <img width="85" height="85" src="image/Cat-code.gif">
+  <img width="15%" height="85" src="image/Cat-code.gif">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=0F9E19&background=000000&multiline=true&width=70%&height=85&lines=%3E+Hacker+is+here.+Where+are+you%3F;%3E+Hi%2C+I'm+T%C3%86!+I+finally+found+you.;%3E+Watch+out%2C+I'm+watching+you!" alt="Typing SVG" /></a>
+  <img width="15%" height="85" src="image/Cat-code.gif">
 </p>
 
 
