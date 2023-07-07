@@ -2,9 +2,9 @@
   <img width="100%" height="300" src="image/hacker-python.gif">
 </p>
 
-<p align="center">
-  **Hacker is here. Where are you?**
-</p>
+<h1 align="center">
+  Hacker is here. Where are you?
+</h1>
 
 
 <!--
