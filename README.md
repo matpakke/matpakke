@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<div class="tenor-gif-embed" data-postid="24209207" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/hacker-python-coding-glitch-gif-24209207">Hacker Python GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <!--
 **matpakke/matpakke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
