@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="100%" height="300" src="image/hacker-python.gif">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=0F9E19&background=000000&multiline=true&width=900&height=85&lines=%3E+Hacker+is+here.+Where+are+you%3F;%3E+Hi%2C+I'm+T%C3%86!+I+finally+found+you.;%3E+Watch+out%2C+I'm+watching+you!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=0F9E19&background=000000&vCenter=true&multiline=true&width=900&height=85&lines=%3E+Hi%2C+I'm+T%C3%86!+An+aspiring+Ethical+Hacker!;%3E+Let's+sharpen+our+skills+to+combat+Cyber+Threats;%3E+Join+me+on+this+journey+of+mastering+the+art+of+Offensive+Cybersecurity" alt="Typing SVG" /></a>
 </p>
 
 
