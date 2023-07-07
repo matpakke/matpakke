@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img width="460" height="300" src="image/hacker-python.gif">
+  <img width="660" height="300" src="image/hacker-python.gif">
 </p>
 
 
