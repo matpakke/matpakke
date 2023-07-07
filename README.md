@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <img width="100%" height="300" src="image/hacker-python.gif">
 </p>
