@@ -6,6 +6,10 @@
   <img src="image/hacker-python.gif" alt="Hacker" />
 </div>
 
+<p align="center">
+  <img width="460" height="300" src="image/hacker-python.gif/460/300">
+</p>
+
 
 <!--
 **matpakke/matpakke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
