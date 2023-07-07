@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-![Hacker](image/hacker-python.gif)
-
-<div style="text-align: center;">
-  <img src="image/hacker-python.gif" alt="Hacker" />
-</div>
-
 <p align="center">
   <img width="460" height="300" src="image/hacker-python.gif">
 </p>
