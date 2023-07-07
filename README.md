@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img width="460" height="300" src="image/hacker-python.gif/460/300">
+  <img width="460" height="300" src="image/hacker-python.gif">
 </p>
 
 
